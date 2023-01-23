@@ -6,7 +6,7 @@ Front-End Developer 👨‍💻
 
 I am a Junior Front-End developer that love learning new tools by sharing knwoledge amongst people. My aim is develop websites that may be useful and impact positively people around the world. 
 
-I'm graduated in Food Engineering, but in a career transiction to web development
+More about me
 
 * 🇧🇷  I'm from Recife, Brazil
 * ✉️  You can contact me at [rodrigoscsantos@live.com](mailto:rodrigoscsantos@live.com)
