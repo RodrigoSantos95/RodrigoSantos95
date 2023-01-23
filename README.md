@@ -12,7 +12,7 @@ I'm graduated in Food Engineering, but in a career transiction to web developmen
 * ✉️  You can contact me at [rodrigoscsantos@live.com](mailto:rodrigoscsantos@live.com)
 * 🧠  I'm developing skills on React and Typescript
 * 🤝  I'm open to be part of projects that positively impact people's lives
-* ✈️  I love traveling, meeting new cultures and people. We can talk in Portuguese 🇧🇷, English 🇬🇧, Spanish 🇪🇸 and I'm currently leaning German 🇩🇪 and French 🇫🇷 
+* ✈️  I love traveling, meeting new cultures and people. We can talk in Portuguese 🇧🇷, English 🇬🇧, Spanish 🇪🇸 and I'm currently learning German 🇩🇪 and French 🇫🇷 
 
 
 ### Skills
