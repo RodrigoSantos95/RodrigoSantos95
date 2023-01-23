@@ -14,6 +14,7 @@ More about me
 * 🤝  I'm open to be part of projects that positively impact people's lives
 * ✈️  I love traveling, meeting new cultures and people. We can talk in Portuguese 🇧🇷, English 🇬🇧, Spanish 🇪🇸 and I'm currently learning German 🇩🇪 and French 🇫🇷 
 
+##
 
 ### Skills
 
