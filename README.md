@@ -9,7 +9,7 @@ I am a Junior Front-End developer that love learning new tools by sharing knwole
 I'm graduated in Food Engineering, but in a career transiction to web development
 
 * 🇧🇷  I'm from Recife, Brazil
-* 📧  You can contact me at [rodrigoscsantos@live.com](mailto:rodrigoscsantos@live.com)
+* ✉️  You can contact me at [rodrigoscsantos@live.com](mailto:rodrigoscsantos@live.com)
 * 🧠  I'm developing skills on React and Typescript
 * 🤝  I'm open to be part of projects that positively impact people's lives
 * ✈️  I love traveling, meeting new cultures and people. We can talk in Portuguese 🇧🇷, English 🇬🇧, Spanish 🇪🇸 and I'm currently leaning German 🇩🇪 and French 🇫🇷 
