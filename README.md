@@ -8,7 +8,7 @@ I am a Junior Front-End developer that love learning new tools by sharing knwole
 
 More about me
 
-* 🇧🇷  I'm from Recife, Brazil
+* 🇧🇷  I'm from Brazil
 * ✉️  You can contact me at [rodrigoscsantos@live.com](mailto:rodrigoscsantos@live.com)
 * 🧠  I'm developing skills on React and Typescript
 * 🤝  I'm open to be part of projects that positively impact people's lives
